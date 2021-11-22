@@ -1,0 +1,12 @@
+F:\LabWork1\IOFileLibrary\bin\Debug\IOFileLibrary.dll
+F:\LabWork1\IOFileLibrary\bin\Debug\IOFileLibrary.pdb
+F:\LabWork1\IOFileLibrary\obj\Debug\IOFileLibrary.csproj.AssemblyReference.cache
+F:\LabWork1\IOFileLibrary\obj\Debug\IOFileLibrary.csproj.CoreCompileInputs.cache
+F:\LabWork1\IOFileLibrary\obj\Debug\IOFileLibrary.dll
+F:\LabWork1\IOFileLibrary\obj\Debug\IOFileLibrary.pdb
+F:\OOP_lab_help\LabarotaryWork_11_вариант\LabWork1\IOFileLibrary\bin\Debug\IOFileLibrary.dll
+F:\OOP_lab_help\LabarotaryWork_11_вариант\LabWork1\IOFileLibrary\bin\Debug\IOFileLibrary.pdb
+F:\OOP_lab_help\LabarotaryWork_11_вариант\LabWork1\IOFileLibrary\obj\Debug\IOFileLibrary.csproj.AssemblyReference.cache
+F:\OOP_lab_help\LabarotaryWork_11_вариант\LabWork1\IOFileLibrary\obj\Debug\IOFileLibrary.csproj.CoreCompileInputs.cache
+F:\OOP_lab_help\LabarotaryWork_11_вариант\LabWork1\IOFileLibrary\obj\Debug\IOFileLibrary.dll
+F:\OOP_lab_help\LabarotaryWork_11_вариант\LabWork1\IOFileLibrary\obj\Debug\IOFileLibrary.pdb
