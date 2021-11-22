@@ -1,0 +1,6 @@
+F:\Лабараторки\LabWork2\BinaryTreeProject\bin\Debug\BinaryTreeProject.dll
+F:\Лабараторки\LabWork2\BinaryTreeProject\bin\Debug\BinaryTreeProject.pdb
+F:\Лабараторки\LabWork2\BinaryTreeProject\obj\Debug\BinaryTreeProject.csproj.AssemblyReference.cache
+F:\Лабараторки\LabWork2\BinaryTreeProject\obj\Debug\BinaryTreeProject.csproj.CoreCompileInputs.cache
+F:\Лабараторки\LabWork2\BinaryTreeProject\obj\Debug\BinaryTreeProject.dll
+F:\Лабараторки\LabWork2\BinaryTreeProject\obj\Debug\BinaryTreeProject.pdb
